@@ -1,0 +1,1 @@
+student表里有依赖于class的外键，先创建class表
